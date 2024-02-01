@@ -51,3 +51,6 @@
 
 # 测试内容
 print('test')
+
+# 测试上传方式
+print('test11')
